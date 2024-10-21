@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\properties\\publishprofiles\\default.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\properties\\publishprofiles\\default.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\soundsleuth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\soundsleuth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\toaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\toaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\soundsleuth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\soundsleuth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|d:\\users\\desktop\\bytes union\\pd322\\c#\\soundsleuth\\soundsleuth\\hotkeylistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE95478-CEF2-4A20-9D07-B48E214154F1}|SoundSleuth\\SoundSleuth.csproj|solutionrelative:soundsleuth\\hotkeylistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SoundSleuth\\Properties\\Resources.resx",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Properties\\Resources.resx",
+              "RelativeToolTip": "SoundSleuth\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-21T18:13:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.pubxml",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Properties\\PublishProfiles\\Default.pubxml",
+              "RelativeDocumentMoniker": "SoundSleuth\\Properties\\PublishProfiles\\Default.pubxml",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Properties\\PublishProfiles\\Default.pubxml",
+              "RelativeToolTip": "SoundSleuth\\Properties\\PublishProfiles\\Default.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-21T18:11:40.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Types.cs",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Types.cs",
+              "RelativeDocumentMoniker": "SoundSleuth\\Types.cs",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Types.cs",
+              "RelativeToolTip": "SoundSleuth\\Types.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:08:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SoundSleuth\\App.xaml.cs",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\App.xaml.cs",
+              "RelativeToolTip": "SoundSleuth\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:05:14.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundSleuth",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SoundSleuth.csproj",
+              "RelativeDocumentMoniker": "SoundSleuth\\SoundSleuth.csproj",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SoundSleuth.csproj",
+              "RelativeToolTip": "SoundSleuth\\SoundSleuth.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T18:02:39.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoundSleuth",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SoundSleuth.csproj",
+              "RelativeDocumentMoniker": "SoundSleuth\\SoundSleuth.csproj",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SoundSleuth.csproj",
+              "RelativeToolTip": "SoundSleuth\\SoundSleuth.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T18:01:41.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\App.xaml",
+              "RelativeDocumentMoniker": "SoundSleuth\\App.xaml",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\App.xaml",
+              "RelativeToolTip": "SoundSleuth\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T18:01:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "SoundSleuth\\SettingsWindow.xaml",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SettingsWindow.xaml",
+              "RelativeToolTip": "SoundSleuth\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T18:01:26.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Toaster.cs",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Toaster.cs",
+              "RelativeDocumentMoniker": "SoundSleuth\\Toaster.cs",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\Toaster.cs",
+              "RelativeToolTip": "SoundSleuth\\Toaster.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAowDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:57:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotKeyListener.cs",
+              "DocumentMoniker": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\HotKeyListener.cs",
+              "RelativeDocumentMoniker": "SoundSleuth\\HotKeyListener.cs",
+              "ToolTip": "D:\\users\\Desktop\\Bytes Union\\PD322\\C#\\SoundSleuth\\SoundSleuth\\HotKeyListener.cs",
+              "RelativeToolTip": "SoundSleuth\\HotKeyListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:56:19.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Publish\SoundSleuth.pdb
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Publish\SoundSleuth.exe

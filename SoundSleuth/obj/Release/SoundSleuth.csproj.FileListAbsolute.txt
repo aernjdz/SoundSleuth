@@ -1,0 +1,66 @@
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.exe
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.deps.json
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.runtimeconfig.json
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\ref\SoundSleuth.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.pdb
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\Crc32.NET.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\MathNet.Numerics.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\NAudio.Core.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\NAudio.Wasapi.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\Microsoft.Windows.SDK.NET.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\WinRT.Runtime.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SettingsWindow.baml
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SettingsWindow.g.cs
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\App.g.cs
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth_MarkupCompile.cache
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth_MarkupCompile.lref
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\App.baml
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.g.resources
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.Properties.Resources.resources
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.GenerateResource.cache
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.CopyComplete
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\ref\SoundSleuth.dll
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.pdb
+D:\ШАГ\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.genruntimeconfig.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.exe
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.deps.json
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.runtimeconfig.json
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\SoundSleuth.pdb
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\Crc32.NET.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\MathNet.Numerics.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\NAudio.Core.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\NAudio.Wasapi.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\Microsoft.Windows.SDK.NET.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\bin\Release\WinRT.Runtime.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.AssemblyReference.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SettingsWindow.baml
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SettingsWindow.g.cs
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\App.g.cs
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth_MarkupCompile.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth_MarkupCompile.lref
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\App.baml
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.g.resources
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.Properties.Resources.resources
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.GenerateResource.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.AssemblyInfoInputs.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.AssemblyInfo.cs
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.csproj.CoreCompileInputs.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.sourcelink.json
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSle.0BA5FBD5.Up2Date
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\refint\SoundSleuth.dll
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.pdb
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\SoundSleuth.genruntimeconfig.cache
+D:\users\Desktop\Bytes Union\PD322\C#\SoundSleuth\SoundSleuth\obj\Release\ref\SoundSleuth.dll
